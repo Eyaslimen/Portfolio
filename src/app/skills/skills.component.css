@@ -1,0 +1,40 @@
+.titre {
+    margin-left: -25%;
+    font-family: Acme ;
+    font-size: 4vw;
+    color: #018abd;
+}
+.skills {
+    color: #018abd;
+    margin-left:19%;
+    position: fixed;
+    width: 100%;
+} 
+.c1 {
+    border-radius: 2px;
+   width: 180px;
+   height:80px ;
+  background-color: #057fac20;
+  font-size: 30px;
+  text-align: center;
+  box-shadow: 1px 1px 1px 1px #018bbd77 ;
+}
+.skills_ {
+    width: 80%;
+    display: grid;
+    grid-template-columns: auto auto auto auto ;
+    gap:5%; 
+}
+h1 {
+    text-align: center;
+}
+.part {
+height: 200px;
+width:80%; 
+margin-right: 15%;
+box-shadow: 0px 5px 2px 0px #018bbd5d;
+background-color:#018bbd0c ;
+}   
+li {
+    font-size: large;
+}

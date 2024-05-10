@@ -1,0 +1,50 @@
+.titre {
+    margin-left: -25%;
+    margin-top: 5%;
+    font-family: Acme ;
+    font-size: 4vw;
+    color: #018abd;
+}
+.projects {
+    color: #018abd;
+    margin-left:18%;
+    position: fixed;
+    width: 100%;
+} 
+.projects_ {
+    margin-top: 5%;
+    display: grid;
+    width: 80%;
+    grid-template-columns: auto auto auto; 
+    gap:5%; 
+}
+h1 {
+    text-align: center;
+}
+.part {
+    padding-left: 20px;
+    padding-right: 20px;
+    height: 350px;
+    width:250px; 
+    box-shadow: 0px 5px 2px 0px #018bbd5d;
+    background-color:#018bbd0c ;
+}   
+.Technologies {
+    color: #003041;
+    font-weight: 1000;
+}
+li {
+    font-size: large;
+}
+ button {
+    padding: 3px;
+    background-color: #018abd;
+    color: white;
+    margin-left: 30%;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+button:hover {
+    background-color: #004581;
+} 

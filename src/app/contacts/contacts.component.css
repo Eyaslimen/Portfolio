@@ -1,0 +1,83 @@
+.contact {
+    position: fixed;
+    margin-left: 20%;
+    width: 80%;
+   
+}
+.cnct { 
+    display: grid;
+    grid-template-columns: auto auto auto;
+    margin-top: 8%;
+    margin-left: 10%;
+    width:70%;
+    height: 420px;
+    background-color:#0045810a ;
+    box-shadow: 5px 5px  #018bbd84 ;
+}   
+h1 {
+    font-family: 'Tangerine';
+    font-size: 50px; 
+    margin-left: 35%;
+    margin-top: 2%;
+    color: #018abd;
+
+}
+.social { 
+    font-size: 20px;
+    margin-left: 33%;
+    margin-top: 10%;
+}  
+form {
+    height: 250px;
+    margin-top: -10%;
+    margin-left: 10%;
+    color: #018abd;
+} 
+label {
+    display: block;
+    margin-bottom: 8px;
+  }
+
+  input, textarea {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 16px;
+    border: none;
+    border-bottom: 1px solid #ccc;
+    box-sizing: border-box;
+    background-color:#018bbd06;
+
+  }
+
+  textarea { 
+    resize: vertical;
+    height: 50px;
+  }
+  button {
+    background-color: #018abd;
+    color: white;
+    cursor: pointer;
+    border: none;
+    padding: 5px; 
+    margin-left: 40%; 
+}
+button:hover {
+    transform: scale(1.01);
+    box-shadow: 1px 2px 1px 1px #0045815e;
+} 
+
+.cord {
+    margin-top: 20%; 
+    margin-left: 20%;
+    color: #018abd;
+}
+i {
+    margin-right:5%;
+}
+a {
+    color:#018abd;
+    width:20px;
+    height:20px;
+    text-align: center;
+    border-radius: 1000%;
+}   

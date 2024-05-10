@@ -1,0 +1,38 @@
+.education {
+    background-color: #018bbd1c;
+    height: 800px; 
+    margin-left: 15%;
+    position: fixed;
+    width: 100%;
+    display: grid;
+    grid-template-columns: auto auto;
+}
+.vertical-hr { 
+    border-left: 4px solid #404f54; /* Couleur et épaisseur de la ligne */
+    height: 40px; /* Hauteur de la ligne */
+    margin: 0 10px; /* Marge pour espacer la ligne du contenu avoisinant */
+}  
+.titre {
+    margin-top: 28%;
+    margin-left: 20%; 
+    color:#018abd;
+
+} 
+.t1 {
+    margin-top: 15%;
+    font-family: Acme;
+    font-size: 70px; 
+}
+.t2 {
+    font-family: Tangerine;
+    font-size: 70px; 
+    margin-top: 0%;
+    transform: translate(10px, -60px);
+}  
+.edc {  
+    margin-top: 2%;
+    margin-right: 20%;
+}
+h2 {
+    color: #018abd;
+} 
